@@ -41,7 +41,7 @@ void fibonacci(int a)
 		   num2 = sum;
 	    }
 		cout << num1;
-    }
+        }
 
 }
 
